@@ -1,0 +1,264 @@
+,name,region_code,income_code
+ABW,Aruba,LAC,HH
+AFG,Afghanistan,SAS,LL
+AGO,Angola,SSA,LM
+ALB,Albania,ECA,UM
+AND,Andorra,ECA,HH
+ARB,Arab World,,
+ARE,United Arab Emirates,MEA,HH
+ARG,Argentina,LAC,HH
+ARM,Armenia,ECA,UM
+ASM,American Samoa,EAP,UM
+ATG,Antigua and Barbuda,LAC,HH
+AUS,Australia,EAP,HH
+AUT,Austria,ECA,HH
+AZE,Azerbaijan,ECA,UM
+BDI,Burundi,SSA,LL
+BEL,Belgium,ECA,HH
+BEN,Benin,SSA,LL
+BFA,Burkina Faso,SSA,LL
+BGD,Bangladesh,SAS,LM
+BGR,Bulgaria,ECA,UM
+BHR,Bahrain,MEA,HH
+BHS,"Bahamas, The",LAC,HH
+BIH,Bosnia and Herzegovina,ECA,UM
+BLR,Belarus,ECA,UM
+BLZ,Belize,LAC,UM
+BMU,Bermuda,NAM,HH
+BOL,Bolivia,LAC,LM
+BRA,Brazil,LAC,UM
+BRB,Barbados,LAC,HH
+BRN,Brunei Darussalam,EAP,HH
+BTN,Bhutan,SAS,LM
+BWA,Botswana,SSA,UM
+CAF,Central African Republic,SSA,LL
+CAN,Canada,NAM,HH
+CEB,Central Europe and the Baltics,,
+CHE,Switzerland,ECA,HH
+CHI,Channel Islands,ECA,HH
+CHL,Chile,LAC,HH
+CHN,China,EAP,UM
+CIV,Côte d'Ivoire,SSA,LM
+CMR,Cameroon,SSA,LM
+COD,"Congo, Dem. Rep.",SSA,LL
+COG,"Congo, Rep.",SSA,LM
+COL,Colombia,LAC,UM
+COM,Comoros,SSA,LL
+CPV,Cabo Verde,SSA,LM
+CRI,Costa Rica,LAC,UM
+CSS,Caribbean small states,,
+CUB,Cuba,LAC,UM
+CUW,Curaçao,LAC,HH
+CYM,Cayman Islands,LAC,HH
+CYP,Cyprus,ECA,HH
+CZE,Czech Republic,ECA,HH
+DEU,Germany,ECA,HH
+DJI,Djibouti,MEA,LM
+DMA,Dominica,LAC,UM
+DNK,Denmark,ECA,HH
+DOM,Dominican Republic,LAC,UM
+DZA,Algeria,MEA,UM
+EAP,East Asia & Pacific (excluding high income),,
+EAR,Early-demographic dividend,,
+EAS,East Asia & Pacific,,
+ECA,Europe & Central Asia (excluding high income),,
+ECS,Europe & Central Asia,,
+ECU,Ecuador,LAC,UM
+EGY,"Egypt, Arab Rep.",MEA,LM
+EMU,Euro area,,
+ERI,Eritrea,SSA,LL
+ESP,Spain,ECA,HH
+EST,Estonia,ECA,HH
+ETH,Ethiopia,SSA,LL
+EUU,European Union,,
+FCS,Fragile and conflict affected situations,,
+FIN,Finland,ECA,HH
+FJI,Fiji,EAP,UM
+FRA,France,ECA,HH
+FRO,Faroe Islands,ECA,HH
+FSM,"Micronesia, Fed. Sts.",EAP,LM
+GAB,Gabon,SSA,UM
+GBR,United Kingdom,ECA,HH
+GEO,Georgia,ECA,LM
+GHA,Ghana,SSA,LM
+GIB,Gibraltar,ECA,HH
+GIN,Guinea,SSA,LL
+GMB,"Gambia, The",SSA,LL
+GNB,Guinea-Bissau,SSA,LL
+GNQ,Equatorial Guinea,SSA,UM
+GRC,Greece,ECA,HH
+GRD,Grenada,LAC,UM
+GRL,Greenland,ECA,HH
+GTM,Guatemala,LAC,UM
+GUM,Guam,EAP,HH
+GUY,Guyana,LAC,UM
+HIC,High income,,
+HKG,"Hong Kong SAR, China",EAP,HH
+HND,Honduras,LAC,LM
+HPC,Heavily indebted poor countries (HIPC),,
+HRV,Croatia,ECA,HH
+HTI,Haiti,LAC,LL
+HUN,Hungary,ECA,HH
+IBD,IBRD only,,
+IBT,IDA & IBRD total,,
+IDA,IDA total,,
+IDB,IDA blend,,
+IDN,Indonesia,EAP,LM
+IDX,IDA only,,
+IMN,Isle of Man,ECA,HH
+IND,India,SAS,LM
+IRL,Ireland,ECA,HH
+IRN,"Iran, Islamic Rep.",MEA,UM
+IRQ,Iraq,MEA,UM
+ISL,Iceland,ECA,HH
+ISR,Israel,MEA,HH
+ITA,Italy,ECA,HH
+JAM,Jamaica,LAC,UM
+JOR,Jordan,MEA,UM
+JPN,Japan,EAP,HH
+KAZ,Kazakhstan,ECA,UM
+KEN,Kenya,SSA,LM
+KGZ,Kyrgyz Republic,ECA,LM
+KHM,Cambodia,EAP,LM
+KIR,Kiribati,EAP,LM
+KNA,St. Kitts and Nevis,LAC,HH
+KOR,"Korea, Rep.",EAP,HH
+KWT,Kuwait,MEA,HH
+LAC,Latin America & Caribbean (excluding high income),,
+LAO,Lao PDR,EAP,LM
+LBN,Lebanon,MEA,UM
+LBR,Liberia,SSA,LL
+LBY,Libya,MEA,UM
+LCA,St. Lucia,LAC,UM
+LCN,Latin America & Caribbean,,
+LDC,Least developed countries: UN classification,,
+LIC,Low income,,
+LIE,Liechtenstein,ECA,HH
+LKA,Sri Lanka,SAS,LM
+LMC,Lower middle income,,
+LMY,Low & middle income,,
+LSO,Lesotho,SSA,LM
+LTE,Late-demographic dividend,,
+LTU,Lithuania,ECA,HH
+LUX,Luxembourg,ECA,HH
+LVA,Latvia,ECA,HH
+MAC,"Macao SAR, China",EAP,HH
+MAF,St. Martin (French part),LAC,HH
+MAR,Morocco,MEA,LM
+MCO,Monaco,ECA,HH
+MDA,Moldova,ECA,LM
+MDG,Madagascar,SSA,LL
+MDV,Maldives,SAS,UM
+MEA,Middle East & North Africa,,
+MEX,Mexico,LAC,UM
+MHL,Marshall Islands,EAP,UM
+MIC,Middle income,,
+MKD,"Macedonia, FYR",ECA,UM
+MLI,Mali,SSA,LL
+MLT,Malta,MEA,HH
+MMR,Myanmar,EAP,LM
+MNA,Middle East & North Africa (excluding high income),,
+MNE,Montenegro,ECA,UM
+MNG,Mongolia,EAP,LM
+MNP,Northern Mariana Islands,EAP,HH
+MOZ,Mozambique,SSA,LL
+MRT,Mauritania,SSA,LM
+MUS,Mauritius,SSA,UM
+MWI,Malawi,SSA,LL
+MYS,Malaysia,EAP,UM
+NAC,North America,,
+NAM,Namibia,SSA,UM
+NCL,New Caledonia,EAP,HH
+NER,Niger,SSA,LL
+NGA,Nigeria,SSA,LM
+NIC,Nicaragua,LAC,LM
+NLD,Netherlands,ECA,HH
+NOR,Norway,ECA,HH
+NPL,Nepal,SAS,LL
+NRU,Nauru,EAP,UM
+NZL,New Zealand,EAP,HH
+OED,OECD members,,
+OMN,Oman,MEA,HH
+OSS,Other small states,,
+PAK,Pakistan,SAS,LM
+PAN,Panama,LAC,HH
+PER,Peru,LAC,UM
+PHL,Philippines,EAP,LM
+PLW,Palau,EAP,HH
+PNG,Papua New Guinea,EAP,LM
+POL,Poland,ECA,HH
+PRE,Pre-demographic dividend,,
+PRI,Puerto Rico,LAC,HH
+PRK,"Korea, Dem. People's Rep.",EAP,LL
+PRT,Portugal,ECA,HH
+PRY,Paraguay,LAC,UM
+PSE,West Bank and Gaza,MEA,LM
+PSS,Pacific island small states,,
+PST,Post-demographic dividend,,
+PYF,French Polynesia,EAP,HH
+QAT,Qatar,MEA,HH
+ROU,Romania,ECA,UM
+RUS,Russian Federation,ECA,UM
+RWA,Rwanda,SSA,LL
+SAS,South Asia,,
+SAU,Saudi Arabia,MEA,HH
+SDN,Sudan,SSA,LM
+SEN,Senegal,SSA,LL
+SGP,Singapore,EAP,HH
+SLB,Solomon Islands,EAP,LM
+SLE,Sierra Leone,SSA,LL
+SLV,El Salvador,LAC,LM
+SMR,San Marino,ECA,HH
+SOM,Somalia,SSA,LL
+SRB,Serbia,ECA,UM
+SSA,Sub-Saharan Africa (excluding high income),,
+SSD,South Sudan,SSA,LL
+SSF,Sub-Saharan Africa,,
+SST,Small states,,
+STP,São Tomé and Principe,SSA,LM
+SUR,Suriname,LAC,UM
+SVK,Slovak Republic,ECA,HH
+SVN,Slovenia,ECA,HH
+SWE,Sweden,ECA,HH
+SWZ,Eswatini,SSA,LM
+SXM,Sint Maarten (Dutch part),LAC,HH
+SYC,Seychelles,SSA,HH
+SYR,Syrian Arab Republic,MEA,LL
+TCA,Turks and Caicos Islands,LAC,HH
+TCD,Chad,SSA,LL
+TEA,East Asia & Pacific (IDA & IBRD),,
+TEC,Europe & Central Asia (IDA & IBRD),,
+TGO,Togo,SSA,LL
+THA,Thailand,EAP,UM
+TJK,Tajikistan,ECA,LL
+TKM,Turkmenistan,ECA,UM
+TLA,Latin America & Caribbean (IDA & IBRD),,
+TLS,Timor-Leste,EAP,LM
+TMN,Middle East & North Africa (IDA & IBRD),,
+TON,Tonga,EAP,UM
+TSA,South Asia (IDA & IBRD),,
+TSS,Sub-Saharan Africa (IDA & IBRD),,
+TTO,Trinidad and Tobago,LAC,HH
+TUN,Tunisia,MEA,LM
+TUR,Turkey,ECA,UM
+TUV,Tuvalu,EAP,UM
+TZA,Tanzania,SSA,LL
+UGA,Uganda,SSA,LL
+UKR,Ukraine,ECA,LM
+UMC,Upper middle income,,
+URY,Uruguay,LAC,HH
+USA,United States,NAM,HH
+UZB,Uzbekistan,ECA,LM
+VCT,St. Vincent and the Grenadines,LAC,UM
+VEN,"Venezuela, RB",LAC,UM
+VGB,British Virgin Islands,LAC,HH
+VIR,Virgin Islands (U.S.),LAC,HH
+VNM,Vietnam,EAP,LM
+VUT,Vanuatu,EAP,LM
+WLD,World,,
+WSM,Samoa,EAP,UM
+XKX,Kosovo,ECA,LM
+YEM,"Yemen, Rep.",MEA,LL
+ZAF,South Africa,SSA,UM
+ZMB,Zambia,SSA,LM
+ZWE,Zimbabwe,SSA,LL
